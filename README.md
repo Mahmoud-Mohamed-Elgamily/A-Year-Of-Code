@@ -1,6 +1,7 @@
 # A-Year-Of-Code
-code every day recommended by https://github.com/MohammedRashad/A-Year-of-Code
-##### Table of Contents  
-[Headers](#Day)
-[Headers](#Language)
-[Headers](#Project Name)
+code every day recommended by [Mohamed Rashad](https://github.com/MohammedRashad/A-Year-of-Code)
+
+# Table of Contents  
+| Day | Language | Description |
+| 1 | Python | Remove Repeated |
+| 2 | Python | Sorting | 
