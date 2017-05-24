@@ -1,10 +1,10 @@
 s = input("enter your string here ")
 x = list(s)
-z = []
+l = []
 
 for letter in x :
 
-	if letter not in z :
-		z.append(letter)
+	if letter not in l :
+		l.append(letter)
 
-print(z)
+print(l)
