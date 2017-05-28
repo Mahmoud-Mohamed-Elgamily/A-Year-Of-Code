@@ -7,3 +7,4 @@ code every day recommended by [Mohamed Rashad](https://github.com/MohammedRashad
 | 1 | Python | Remove Repeated |
 | 2 | Python | Sorting | 
 | 3 | Python | Armstrong number |
+| 4 | Python | fibonacci series |
