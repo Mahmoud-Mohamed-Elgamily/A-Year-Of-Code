@@ -10,3 +10,4 @@ code every day recommended by [Mohamed Rashad](https://github.com/MohammedRashad
 | 4 | Python | Fibonacci series |
 | 5 | Python | Factorial |
 | 6 | Python | Guess Game |
+| 7 | Python | Game Board |
