@@ -14,3 +14,4 @@ code every day recommended by [Mohamed Rashad](https://github.com/MohammedRashad
 | 8 | Python | Math Equ |
 | 9 | Python | 2D List |
 | 10 | Python | MultiLineInput |
+| 11 | Python | AllDigitsEven |
