@@ -12,3 +12,4 @@ code every day recommended by [Mohamed Rashad](https://github.com/MohammedRashad
 | 6 | Python | Guess Game |
 | 7 | Python | Game Board |
 | 8 | Python | Math Equ |
+| 9 | Python | 2D List |
