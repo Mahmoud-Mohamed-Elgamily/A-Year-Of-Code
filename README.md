@@ -11,3 +11,4 @@ code every day recommended by [Mohamed Rashad](https://github.com/MohammedRashad
 | 5 | Python | Factorial |
 | 6 | Python | Guess Game |
 | 7 | Python | Game Board |
+| 8 | Python | Math Equ |
