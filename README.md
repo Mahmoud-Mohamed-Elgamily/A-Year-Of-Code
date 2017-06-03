@@ -15,3 +15,4 @@ code every day recommended by [Mohamed Rashad](https://github.com/MohammedRashad
 | 9 | Python | 2D List |
 | 10 | Python | MultiLineInput |
 | 11 | Python | AllDigitsEven |
+| 12 | Python | maxWithRecursion |
